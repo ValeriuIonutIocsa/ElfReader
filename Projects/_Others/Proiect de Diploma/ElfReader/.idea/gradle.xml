@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/logger/logger" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils" />
+            <option value="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

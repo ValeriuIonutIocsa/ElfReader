@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<elf_reader_settings>
+    <elf_file_path>C:\IVI\Conti\Projects\_Others\Proiect de Diploma\tmp\Compiler_test\test.elf</elf_file_path>
+    <output_file_path>C:\IVI\Conti\Projects\_Others\Proiect de Diploma\tmp\Compiler_test\test-call_tree_regular.xml</output_file_path>
+    <option>-call_tree_regular</option>
+</elf_reader_settings>

@@ -1,0 +1,5 @@
+ext.subProjectNames = [':io-utils']
+ext.compileClassPaths = ['stax-utils:stax-utils:snapshot-20040917']
+ext.testCompileClassPaths = []
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'

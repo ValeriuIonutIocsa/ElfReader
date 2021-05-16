@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1505371617/io-utils_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1505371617/io-utils_main~1.iml" group="io-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1505371617/io-utils_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1505371617/io-utils_test~1.iml" group="io-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1505371617/io-utils~1.iml" filepath="$PROJECT_DIR$/.idea/modules/-1505371617/io-utils~1.iml" group="io-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1549597855/logger.iml" filepath="$PROJECT_DIR$/.idea/modules/1549597855/logger.iml" group="logger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1549597855/logger_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/1549597855/logger_main~1.iml" group="logger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1549597855/logger_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/1549597855/logger_test~1.iml" group="logger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils_main~1.iml" group="string-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils_test~1.iml" group="string-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils~1.iml" group="string-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml-parser.iml" filepath="$PROJECT_DIR$/.idea/modules/xml-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml-parser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/xml-parser_main.iml" group="xml-parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml-parser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/xml-parser_test.iml" group="xml-parser" />
+    </modules>
+  </component>
+</project>

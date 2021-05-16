@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logger.iml" filepath="$PROJECT_DIR$/.idea/modules/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logger_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logger_main.iml" group="logger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logger_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logger_test.iml" group="logger" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils_main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils_main~1.iml" group="string-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils_test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils_test~1.iml" group="string-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/729841023/string-utils~1.iml" filepath="$PROJECT_DIR$/.idea/modules/729841023/string-utils~1.iml" group="string-utils" />
+    </modules>
+  </component>
+</project>

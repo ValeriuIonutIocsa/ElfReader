@@ -1,0 +1,19 @@
+
+Supported command line options:
+
+    -gui               starts the graphical user interface
+
+    -call_tree         generates the function call tree found in the elf file assembly code
+
+    -self_stack        analyzes the sizes of global variables
+
+    -size              generates a report containing the sizes of sizeDetailsTableModelElements
+
+    -dump_all          dumps all the content found in the elf file into a text file
+
+    -help              displays the available options and the supported operations
+
+@@supported_calltree_tricore_operations@@
+@@supported_calltree_powerpc_operations@@
+@@supported_selfstack_tricore_operations@@
+@@supported_selfstack_powerpc_operations@@

@@ -1,0 +1,118 @@
+group = project.name
+try{
+    version = projectVersion
+} catch(Exception ignored){
+    version = '1.0.0'
+}
+
+apply plugin: 'java-library'
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    for (String subProjectName : subProjectNames) {
+        api project(subProjectName)
+        runtime project(subProjectName)
+        testCompile project (path: subProjectName, configuration: 'testArtifacts')
+    }
+
+    for (String compileClassPath : compileClassPaths) {
+        api compileClassPath
+        runtime compileClassPath
+    }
+
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    for (String testCompileClassPath : testCompileClassPaths) {
+        testImplementation testCompileClassPath
+    }
+}
+
+clean.doFirst {
+    delete "${projectDir}/bin"
+    delete "${projectDir}/out"
+}
+
+compileJava {
+    for (String subProjectName : subProjectNames) {
+        dependsOn("${subProjectName}:jar")
+    }
+}
+
+jar {
+    archiveName = project.name + '.jar'
+    destinationDir = file('../' + project.name + '_EXE')
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    try{
+        manifest {
+            attributes('Main-Class': mainClass,
+                    'Implementation-Title': project.name,
+                    'Implementation-Version': project.version)
+        }   
+        if(rootDir == projectDir) {
+            doLast {
+                if(project.hasProperty('covertToExe') && covertToExe) {
+                    println ''
+                    final String launch4jExePathString = file('C:\\IVI\\Apps\\Launch4j\\launch4jc.exe').absolutePath
+                    final String launch4jCfgPathString = file("${projectDir}\\cfg\\${project.name}_Launch4jCfg.xml").absolutePath
+                    exec { commandLine 'cmd', '/c', launch4jExePathString, launch4jCfgPathString }
+                }
+                println String.format('%ncreated JAR inside folder: file:///%s', destinationDir)
+            }
+        }
+    } catch (Exception ignored) {
+    }
+    from { configurations.runtime.collect { it.isDirectory() ? it : zipTree(it) } }
+}
+
+configurations {
+    testArtifacts.extendsFrom testRuntime
+}
+
+task testJar(type: Jar) {
+    classifier 'test'
+    from sourceSets.test.output
+}
+
+artifacts {
+    testArtifacts testJar
+}
+
+task subProjectDependencyTree {
+    onlyIf { rootDir == projectDir }
+    doLast { searchForProjectDependencies(project, '') }
+}
+
+def searchForProjectDependencies(Project project, String indent) {
+
+    project.configurations.runtime.dependencies
+            .findAll { dependency -> dependency instanceof ProjectDependency }
+            .each { processDependency((ProjectDependency)it, indent) }
+}
+
+def processDependency (ProjectDependency projectDependency, String indent) {
+
+    final String subProjectName = ":${projectDependency.name}"
+    final Project subProject = project(subProjectName)
+    println indent + subProject.projectDir.absolutePath
+    searchForProjectDependencies(subProject, indent + '\t')
+}
+
+apply plugin: 'idea'
+idea {
+    module {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}
+
+apply plugin: 'eclipse'
+eclipse {
+    classpath.containers 'org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER'
+    classpath {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}

@@ -1,0 +1,37 @@
+
+Symbol types (based on "Info" codes):
+
+    0 = 0x00 (local no-type)        16 = 0x10 (global no-type)
+    1 = 0x01 (local variable)       17 = 0x11 (global variable)
+    2 = 0x02 (local function)       18 = 0x12 (global function)
+    3 = 0x03 (local section)
+    4 = 0x04 (local file)
+
+
+Dwarf
+
+  Compilation Unit
+
+    Debug Information Entry   tag: DW_TAG_compile_unit
+    
+      Attribute   type: DW_AT_stmt  --> contains the offset of the corresponding .debug_line entry.
+		Data Type   form: DW_FORM_data4  --> contains an integer (4 bytes)
+		
+    Debug Information Entry   tag: DW_TAG_subprogram
+    
+      Attribute   type: DW_AT_name  --> contains the name of the function
+        Data Type   form: DW_FORM_string  --> contains a string
+        Data Type   form: DW_FORM_strp  --> contains a pointer to a name from .debug_string
+      
+      Attribute   type: DW_AT_low_pc_counter  --> contains the starting address of the function
+      
+    Debug Information Entry   tag: DW_TAG_variable
+	
+	  Attribute   type: DW_AT_name  --> contains the name of the variable
+        Data Type   form: DW_FORM_string  --> contains a string
+        Data Type   form: DW_FORM_strp  --> contains a pointer to a name from .debug_string
+    
+      Attribute   type: DW_AT_location  --> represents the starting address of the variable
+        Data Type   form: DW_FORM_data4  --> contains an integer (4 bytes)
+        Data Type   form: DW_FORM_block, DW_FORM_block1, DW_FORM_block2, DW_FORM_block3, DW_FORM_block4
+                           --> contains a ULEB128 value, representing a size, and a byte array of that size

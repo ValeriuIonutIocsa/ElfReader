@@ -1,0 +1,6 @@
+ext.subProjectNames = []
+ext.compileClassPaths = ['org.apache.poi:poi-ooxml:4.1.2']
+ext.testCompileClassPaths = []
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'
+

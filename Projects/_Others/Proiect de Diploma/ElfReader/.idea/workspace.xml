@@ -1,0 +1,2584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="432ae4aa-8e98-44ab-b2ec-e99ce04f3229" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/out/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/.gradle/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/build/" />
+    <ignored path="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ElfReader" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ElfReader" type="f1a62948:ProjectNode" />
+                <item name="ElfReader" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ElfReader" type="f1a62948:ProjectNode" />
+                <item name="ElfReader" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ElfReader" type="f1a62948:ProjectNode" />
+                <item name="ElfReader" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeIris Favorites" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AppStart_ElfReader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/AppStart_ElfReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PowerPC</find>
+      <find>&quot;.a</find>
+      <find>GuiU</find>
+      <find>Platform.runLa</find>
+      <find>extends Output</find>
+      <find>limas</find>
+      <find>Exception ignored</find>
+      <find>failed to create</find>
+      <find>com.conti.pa.parsers.elf</find>
+      <find>import com.conti.pa.parsers.elf</find>
+      <find>DwSymbol</find>
+      <find>&quot;.a&quot;</find>
+      <find>position</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>import</replace>
+      <replace>import com.conti.elf_reader.data_parsers</replace>
+      <replace>DwarfSymbol</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\IVI\Apps\Gradle\gradle" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ElfReader" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="ElfReader" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":a-archive-parser" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":app-info" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":io-utils" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":logger" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/logger/logger" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":string-utils" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":xls-utils" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":xml-parser" />
+                <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'ElfReader'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'ElfReader'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'ElfReader'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'ElfReader'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'ElfReader'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'ElfReader' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'ElfReader'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'ElfReader'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'ElfReader'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':app-info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':app-info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':app-info'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':app-info'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":app-info:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':a-archive-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':a-archive-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':a-archive-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':a-archive-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":a-archive-parser:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':io-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':io-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':io-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':io-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":io-utils:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/logger/logger">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':logger'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':logger'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':logger'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':logger'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":logger:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':string-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':string-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':string-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':string-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":string-utils:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':xls-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':xls-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':xls-utils'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':xls-utils'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xls-utils:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':xml-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':xml-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:sourcesJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:subProjectDependencyTree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:fatJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':xml-parser'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:testJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':xml-parser'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value=":xml-parser:properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="36592989588797" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3287536427" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="3503754043" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/build.gradle" value="1609760616" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info/settings.gradle" value="3382934451" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/build.gradle" value="3461595354" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser/settings.gradle" value="4114137006" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/build.gradle" value="460931147" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/settings.gradle" value="3382934451" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/build.gradle" value="2308762981" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/logger/logger/settings.gradle" value="3199812988" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/build.gradle" value="3562597398" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils/settings.gradle" value="1597848178" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/build.gradle" value="1274021114" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils/settings.gradle" value="1597848178" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/build.gradle" value="3200733983" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser/settings.gradle" value="4114137006" />
+        <entry key="$USER_HOME$/.gradle/gradle.properties" value="3150614368" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Data/app-info/app-info" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/a-archive-parser/a-archive-parser" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/logger/logger">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/logger/logger" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/string-utils/string-utils" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/xls-utils/xls-utils" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/../../../../Utils/Services/xml-parser/xml-parser" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="ElfReader" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/announce" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/antlr" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/base-services" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/base-services-groovy" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/build-cache" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/build-cache-http" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/build-comparison" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/build-init" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/build-option" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/cli" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/code-quality" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/composite-builds" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/core" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/core-api" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/dependency-management" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/diagnostics" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/ear" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/ide" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/ide-native" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/ide-play" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/installation-beacon" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/internal-android-performance-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/internal-integ-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/internal-performance-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/internal-testing" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/ivy" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/jacoco" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/javascript" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/jvm-services" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/language-groovy" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/language-java" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/language-jvm" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/language-native" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/language-scala" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/launcher" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/logging" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/maven" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/messaging" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/model-core" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/model-groovy" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/native" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/osgi" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/persistent-cache" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/platform-base" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/platform-jvm" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/platform-native" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/platform-play" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/plugin-development" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/plugin-use" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/plugins" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/process-services" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/publish" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/reporting" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/resources" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/resources-gcs" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/resources-http" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/resources-s3" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/resources-sftp" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/scala" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/signing" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/test-kit" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/testing-base" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/testing-junit-platform" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/testing-jvm" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/testing-native" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/tooling-api" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/tooling-api-builders" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/version-control" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/workers" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/src/wrapper" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/ant-1.9.11.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-base-services-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-build-option-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-cli-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-core-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-core-api-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-docs-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-launcher-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-logging-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-messaging-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-model-core-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-native-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-process-services-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-resources-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/groovy-all-2.4.12.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$PROJECT_DIR$/../../../../../Apps/Gradle/gradle/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../Modules/DataFileParsers/core-architecture/core-architecture" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Modules/core-architecture" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Modules/ims-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Modules/limas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Modules/pda-parser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Aurelian Bejancu/PostProcessLogsCheck/PostProcessLogsCheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Gradle/GradleSourceCodeManager/GradleSourceCodeManager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/AccessFrequencyAnalyzer/AccessFrequencyAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/AllocCtrl/AllocCtrl" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/CallTreeAnalyzer/CallTreeAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/ElfAnalyzer/ElfAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/ProjectAnalyzer/ProjectAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/SizeAnalyzer/SizeAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ovidiu Tripon/StackAnalyzer/StackAnalyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Ralph Mader/AmaltheaConverter/AmaltheaConverter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../T1ApiMeasurement/T1ApiMeasurementAll/T1ApiMeasurementAll" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/Services/xml-obfuscator/xml-obfuscator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/app-info" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/controls-fx-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/data-types" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/gui-logger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/gui-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/math-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/medusa-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../Utils/regex" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Prog/Projects/CodeJam" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/core_architecture/ParserCoreArchitectureFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/utils/data_types/DataTypes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/Operation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_writers/writers/DataFileWriterCsv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/tables/WorkerTableView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/memories/PaneTabCallTreeMemories.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/cli/Options.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/CustomTableView.java" />
+        <option value="$PROJECT_DIR$/cfg/ElfReader_Launch4jCfg.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/PaneCoreArchitectureFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/runnables/PaneTabCallTreeRunnables.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/call_tree_analyzer/DataAnalyzerCallTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/GuiUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/PaneTabCallTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/WindowMainPreloader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/data/SymbolTableEntryRow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/ConsoleOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/PaneTabTable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/WindowMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/settings/Settings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/settings/SettingNames.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gui/style_main.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/oem/ParserOemFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/CompilationUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/Elf.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/size_analyzer/DataAnalyzerSize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/size_analyzer/data/DataElementSize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/FactoryDwarfData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/FactoryAbbrev.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/cu/CompilationUnit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryDebugInfoEntryAbstr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/entries/AbbrevEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/DwarfSymbol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/entries/FactoryAbbrevEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryDebugInfoEntry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryImportedUnitOffset.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/WorkerDumpAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/Sample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/AppStart_ElfReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/WorkerSymbolsToSectionsMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/ElfFile.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elf_reader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ElfReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ElfReader" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="elf_reader" type="462c0819:PsiDirectoryNode" />
+              <item name="workers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jdk1.8.0_162/bin/jvisualvm.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IVI\Conti\Projects\_Others\Proiect de Diploma\ElfReader\src\main\java\com\conti\elf_reader\utils\data_types" />
+      <recent name="C:\IVI\Conti\Projects\_Others\Proiect de Diploma\ElfReader\src\main\java\com\conti\elf_reader\data_parsers" />
+      <recent name="C:\IVI\Conti\Projects\_Others\Proiect de Diploma\ElfReader\tmp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppStart_ElfReader">
+    <configuration name="AppStart_ElfReader" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.conti.elf_reader.AppStart_ElfReader" />
+      <module name="ElfReader_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.conti.elf_reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ElfReader [clean]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ElfReader [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="fatJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="ElfReader [sourcesJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="sourcesJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.AppStart_ElfReader" />
+      <item itemvalue="Gradle.ElfReader [clean]" />
+      <item itemvalue="Gradle.ElfReader [fatJar]" />
+      <item itemvalue="Gradle.ElfReader [sourcesJar]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ElfReader [sourcesJar]" />
+        <item itemvalue="Gradle.ElfReader [fatJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="432ae4aa-8e98-44ab-b2ec-e99ce04f3229" name="Default" comment="" />
+      <created>1528087478475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528087478475</updated>
+      <workItem from="1528346458603" duration="6386000" />
+      <workItem from="1528766915908" duration="1398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7784000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50885415" side_tool="true" visible="true" weight="0.25823593" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49895832" weight="0.2975558" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49427083" weight="0.25823593" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49114582" weight="0.20191287" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31354168" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.1015625" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.77552086" weight="0.21679065" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="right" id="Code Iris" order="4" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/DataElementTableViewRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/tables/data_analyzers/WorkerDataAnalyzerLimas.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/tables/WorkerTableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/memories/PaneTabCallTreeMemories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/WindowHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/CustomTableView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfg/ElfReader_Launch4jCfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/PaneCoreArchitectureFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/data/ElfHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/data/AssemblyCodeSection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="71" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/call_tree_analyzer/DataAnalyzerCallTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/CustomTreeViewCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="87" column="19" lean-forward="true" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/PaneTabCallTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="612" lean-forward="true" selection-start-line="612" selection-end-line="612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/GuiUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="168" column="20" selection-start-line="168" selection-start-column="20" selection-end-line="168" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/WindowMainPreloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="53" column="71" lean-forward="true" selection-start-line="53" selection-start-column="71" selection-end-line="53" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/data/SymbolTableEntryRow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/utils/ConsoleOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/cli/Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/settings/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="163" column="13" lean-forward="true" selection-start-line="163" selection-start-column="13" selection-end-line="163" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/limas_web_service/ProjectClustersGetInfo.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gui/style_main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/settings/SettingNames.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/WindowMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="214" column="69" selection-start-line="214" selection-start-column="51" selection-end-line="214" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/DebugInfoEntry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/utils/data_types/DataTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/tables/call_tree_tables/runnables/PaneTabCallTreeRunnables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-593">
+          <caret line="149" column="17" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/oem/ParserOemFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="169" column="39" lean-forward="true" selection-start-line="169" selection-start-column="39" selection-end-line="169" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Utils/Services/io-utils/io-utils/src/main/java/com/utils/io/IoUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="120" column="46" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/Dwarf.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/CompilationUnit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/size_analyzer/DataAnalyzerSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="189" column="73" selection-start-line="189" selection-start-column="58" selection-end-line="189" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_analyzers/size_analyzer/data/DataElementSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/FactoryDwarfData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/FactoryAbbrev.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/code_maps/DwAtType.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/cu/CompilationUnit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryDebugInfoEntryAbstr.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/entries/AbbrevEntry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/DwarfSymbol.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/abbrev/entries/FactoryAbbrevEntry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryDebugInfoEntry.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/die/FactoryImportedUnitOffset.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/WorkerDumpAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="107" column="65" selection-start-line="107" selection-start-column="65" selection-end-line="107" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/Sample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/dwarf/data/cu/FactoryCompilationUnit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/core_architecture/ParserCoreArchitectureFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/gui/PaneTabTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="620" column="101" selection-start-line="620" selection-start-column="101" selection-end-line="620" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/workers/WorkerSymbolsToSectionsMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="105" column="48" lean-forward="true" selection-start-line="105" selection-start-column="48" selection-end-line="105" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/data_parsers/elf/ElfFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="e#14416#14417#0" expanded="true" />
+            <element signature="e#14453#14454#0" expanded="true" />
+            <element signature="e#14486#14487#0" expanded="true" />
+            <element signature="e#14511#14512#0" expanded="true" />
+            <element signature="e#14547#14548#0" expanded="true" />
+            <element signature="e#14570#14571#0" expanded="true" />
+            <element signature="e#14632#14633#0" expanded="true" />
+            <element signature="e#14666#14667#0" expanded="true" />
+            <element signature="e#14728#14729#0" expanded="true" />
+            <element signature="e#14762#14763#0" expanded="true" />
+            <element signature="e#14823#14824#0" expanded="true" />
+            <element signature="e#14855#14856#0" expanded="true" />
+            <element signature="e#14909#14910#0" expanded="true" />
+            <element signature="e#14939#14940#0" expanded="true" />
+            <element signature="e#15003#15004#0" expanded="true" />
+            <element signature="e#15046#15047#0" expanded="true" />
+            <element signature="e#15110#15111#0" expanded="true" />
+            <element signature="e#15149#15150#0" expanded="true" />
+            <element signature="e#15212#15213#0" expanded="true" />
+            <element signature="e#15246#15247#0" expanded="true" />
+            <element signature="e#15282#15283#0" expanded="true" />
+            <element signature="e#15305#15306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/conti/elf_reader/AppStart_ElfReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

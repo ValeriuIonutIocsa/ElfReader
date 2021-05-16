@@ -1,0 +1,20 @@
+ext.mainClass = 'com.conti.elf_reader.AppStart_' + project.name
+ext.projectVersion = '1.8.0'
+ext.covertToExe = true
+
+ext.subProjectNames = [ ':a-archive-parser', ':xml-utils', ':xls-utils', ':app-info' ]
+ext.compileClassPaths = [
+        'org.gillius:jfxutils:1.0',
+        'com.miglayout:miglayout-core:5.1-SNAPSHOT',
+        'com.miglayout:miglayout-javafx:5.1-SNAPSHOT'
+]
+ext.testCompileClassPaths = [
+        'org.testfx:testfx-core:4.0.11-alpha',
+        'org.testfx:testfx-junit:4.0.11-alpha'
+]
+
+repositories {
+    maven { url = 'https://oss.sonatype.org/content/repositories/snapshots' }
+}
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'

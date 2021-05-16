@@ -1,0 +1,12 @@
+final String projectPath = file('.').getAbsolutePath()
+final String rootDirPath = file('../../../../').getAbsolutePath()
+gradle.ext.rootDirPath = rootDirPath
+final String[] subProjectsRelativePaths = [        
+        '/Utils/Services/a-archive-parser/a-archive-parser',
+        '/Utils/Services/xml-utils/xml-utils',
+        '/Utils/Services/xls-utils/xls-utils',
+        '/Utils/Data/app-info/app-info',
+]
+
+apply from: rootDirPath + '/common_settings.gradle'
+configureSettings(projectPath, rootDirPath, subProjectsRelativePaths)

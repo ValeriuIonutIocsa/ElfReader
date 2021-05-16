@@ -1,0 +1,5 @@
+ext.subProjectNames = [':logger']
+ext.compileClassPaths = []
+ext.testCompileClassPaths = []
+
+apply from: gradle.ext.rootDirPath + '/common_build.gradle'
